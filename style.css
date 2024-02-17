@@ -24,10 +24,10 @@
 }
 
 .side-nav img {
-    height: 200px;
-    width: 200px;
+    height: 160px;
+    width: 160px;
     border-radius: 50%;
-    margin-left: 100px;
+    margin-left: 120px;
     margin-top: 40px;
 }
 
@@ -153,6 +153,7 @@
     overflow: hidden;
     border-right: 0.10em solid white;
     white-space: nowrap;
+    border-bottom: 5px solid #149ddd;
     margin-top: 10px;
     margin-left: 20px;
     animation: typing 6s steps(40)infinite;
